@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asalisom
+- 👋 Hi, I’m somnath Adhav
 - 👀 I’m interested in Artificial Inteligence
 - 🌱 I’m currently learning Machine Learning Algorithms,Data Science
 - 📫 How to reach me ...@aslisom ON GITHUB And On twitter follow me @Ask_somAdhav
